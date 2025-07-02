@@ -1,4 +1,4 @@
 # AplikasiBelajarSeru
 Final Project Kali
-Ekstrak Assets.zip
-jadiin 1 folder ygy
+1. Ekstrak Assets.zip
+2. jadiin 1 folder ygy
