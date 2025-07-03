@@ -1,4 +1,3 @@
 # AplikasiBelajarSeru
 Final Project Kali
-1. Ekstrak Assets.zip
-2. jadiin 1 folder ygy
+1. Just Run And Gun
